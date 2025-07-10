@@ -15,6 +15,13 @@
       "when": 1751987787853,
       "tag": "0001_fearless_jazinda",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752107296223,
+      "tag": "0002_silly_chameleon",
+      "breakpoints": true
     }
   ]
 }
